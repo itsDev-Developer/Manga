@@ -1,0 +1,14 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+env
+Process/
+data/
+*.session
+*.session-journal
+restart_msg.txt
+.env
+webreader/
